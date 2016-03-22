@@ -1,0 +1,19 @@
+body
+{	
+	margin: 0;
+	padding: 0;
+}
+.div_1
+{
+	background: #333;
+	height: 100px;
+}
+.div_1 ul
+{
+	margin: 0;
+	line-height: 100px;
+}
+.div_1 li
+{
+	display: inline;
+}
